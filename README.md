@@ -5,14 +5,10 @@ I'm teaching agents to think, act, and observe — one unit at a time. This repo
 ## Progress
 
 - [x] [Unit 1](unit1/) — Intro to Agents
-- [ ] Unit 2 — Frameworks for AI Agents
+- [x] Unit 2 — Frameworks for AI Agents
   - [x] [smolagents](unit2/smolagents/)
-  - [ ] LlamaIndex
-  - [ ] LangGraph
-- [ ] Unit 3 — Use Case for Agentic RAG
-- [ ] Unit 4 — Final Project (create, test and certify the agent)
-
-Each unit has its own folder with the code for that stage. This file is the running log of what I learned and built along the way.
+  - [x] LlamaIndex
+  - [x] LangGraph
 
 ---
 
